@@ -1,3 +1,7 @@
+/*
+CPP Program to reverse a String using Stack
+Author : cvsabhishek@gmail.com
+*/
 #include<stdio.h>
 #include<iostream>
 #include<stack>
